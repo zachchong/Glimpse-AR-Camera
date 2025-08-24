@@ -31,3 +31,11 @@ Simply point your **iPhone** or **iPad** at the Glimpse T-shirt to unlock divers
 - Xcode 14+ (for development)  
 
 ---
+
+## 📸 Screenshots
+
+![Screenshot 1](0x0ss.png)
+![Screenshot 2](0x0ss1.png)
+![Screenshot 3](0x0ss3.png)
+![Screenshot 4](0x0ss4.png)
+![Screenshot 5](0x0ss5.png)
