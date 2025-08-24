@@ -34,8 +34,10 @@ Simply point your **iPhone** or **iPad** at the Glimpse T-shirt to unlock divers
 
 ## 📸 Screenshots
 
-![Screenshot 1](images/0x0ss.png)
-![Screenshot 2](images/0x0ss1.png)
-![Screenshot 3](images/0x0ss3.png)
-![Screenshot 4](images/0x0ss4.png)
-![Screenshot 5](images/0x0ss5.png)
+<p float="left">
+  <img src="images/0x0ss.png" width="180" />
+  <img src="images/0x0ss1.png" width="180" />
+  <img src="images/0x0ss3.png" width="180" />
+  <img src="images/0x0ss4.png" width="180" />
+  <img src="images/0x0ss5.png" width="180" />
+</p>
