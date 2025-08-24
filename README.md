@@ -1,4 +1,7 @@
 <img src="images/Icon-App-83.5x83.5@2x-1.png" width="100" alt="App Icon"/>
+
+---
+
 ## 👕✨ Glimpse
 
 **Glimpse** is the first-ever app that combines **Augmented Reality (AR)** with stylish outfits.  
